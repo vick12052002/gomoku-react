@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gomoku-react/static/css/main.4aa7e820.chunk.css",
-    "main.js": "/gomoku-react/static/js/main.3977c20f.chunk.js",
-    "main.js.map": "/gomoku-react/static/js/main.3977c20f.chunk.js.map",
+    "main.css": "/gomoku-react/static/css/main.07831ae6.chunk.css",
+    "main.js": "/gomoku-react/static/js/main.e423ca1c.chunk.js",
+    "main.js.map": "/gomoku-react/static/js/main.e423ca1c.chunk.js.map",
     "runtime-main.js": "/gomoku-react/static/js/runtime-main.365a6fed.js",
     "runtime-main.js.map": "/gomoku-react/static/js/runtime-main.365a6fed.js.map",
     "static/js/2.75ec489e.chunk.js": "/gomoku-react/static/js/2.75ec489e.chunk.js",
     "static/js/2.75ec489e.chunk.js.map": "/gomoku-react/static/js/2.75ec489e.chunk.js.map",
     "index.html": "/gomoku-react/index.html",
-    "static/css/main.4aa7e820.chunk.css.map": "/gomoku-react/static/css/main.4aa7e820.chunk.css.map",
+    "static/css/main.07831ae6.chunk.css.map": "/gomoku-react/static/css/main.07831ae6.chunk.css.map",
     "static/js/2.75ec489e.chunk.js.LICENSE.txt": "/gomoku-react/static/js/2.75ec489e.chunk.js.LICENSE.txt",
     "static/media/Blank_Go_board.0fc990cd.svg": "/gomoku-react/static/media/Blank_Go_board.0fc990cd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.365a6fed.js",
     "static/js/2.75ec489e.chunk.js",
-    "static/css/main.4aa7e820.chunk.css",
-    "static/js/main.3977c20f.chunk.js"
+    "static/css/main.07831ae6.chunk.css",
+    "static/js/main.e423ca1c.chunk.js"
   ]
 }
