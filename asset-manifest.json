@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vick12052002/gomoku-react/static/css/main.4aa7e820.chunk.css",
-    "main.js": "/vick12052002/gomoku-react/static/js/main.d42ff793.chunk.js",
-    "main.js.map": "/vick12052002/gomoku-react/static/js/main.d42ff793.chunk.js.map",
-    "runtime-main.js": "/vick12052002/gomoku-react/static/js/runtime-main.c91eb277.js",
-    "runtime-main.js.map": "/vick12052002/gomoku-react/static/js/runtime-main.c91eb277.js.map",
-    "static/js/2.deadc03a.chunk.js": "/vick12052002/gomoku-react/static/js/2.deadc03a.chunk.js",
-    "static/js/2.deadc03a.chunk.js.map": "/vick12052002/gomoku-react/static/js/2.deadc03a.chunk.js.map",
-    "index.html": "/vick12052002/gomoku-react/index.html",
-    "static/css/main.4aa7e820.chunk.css.map": "/vick12052002/gomoku-react/static/css/main.4aa7e820.chunk.css.map",
-    "static/js/2.deadc03a.chunk.js.LICENSE.txt": "/vick12052002/gomoku-react/static/js/2.deadc03a.chunk.js.LICENSE.txt",
-    "static/media/Blank_Go_board.0fc990cd.svg": "/vick12052002/gomoku-react/static/media/Blank_Go_board.0fc990cd.svg"
+    "main.css": "/gomoku-react/static/css/main.4aa7e820.chunk.css",
+    "main.js": "/gomoku-react/static/js/main.d42ff793.chunk.js",
+    "main.js.map": "/gomoku-react/static/js/main.d42ff793.chunk.js.map",
+    "runtime-main.js": "/gomoku-react/static/js/runtime-main.365a6fed.js",
+    "runtime-main.js.map": "/gomoku-react/static/js/runtime-main.365a6fed.js.map",
+    "static/js/2.75ec489e.chunk.js": "/gomoku-react/static/js/2.75ec489e.chunk.js",
+    "static/js/2.75ec489e.chunk.js.map": "/gomoku-react/static/js/2.75ec489e.chunk.js.map",
+    "index.html": "/gomoku-react/index.html",
+    "static/css/main.4aa7e820.chunk.css.map": "/gomoku-react/static/css/main.4aa7e820.chunk.css.map",
+    "static/js/2.75ec489e.chunk.js.LICENSE.txt": "/gomoku-react/static/js/2.75ec489e.chunk.js.LICENSE.txt",
+    "static/media/Blank_Go_board.0fc990cd.svg": "/gomoku-react/static/media/Blank_Go_board.0fc990cd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c91eb277.js",
-    "static/js/2.deadc03a.chunk.js",
+    "static/js/runtime-main.365a6fed.js",
+    "static/js/2.75ec489e.chunk.js",
     "static/css/main.4aa7e820.chunk.css",
     "static/js/main.d42ff793.chunk.js"
   ]
